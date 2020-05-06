@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/move-stars/static/css/main.ce182706.chunk.css",
+    "main.js": "/move-stars/static/js/main.f52c7169.chunk.js",
+    "main.js.map": "/move-stars/static/js/main.f52c7169.chunk.js.map",
+    "runtime-main.js": "/move-stars/static/js/runtime-main.8ba04be8.js",
+    "runtime-main.js.map": "/move-stars/static/js/runtime-main.8ba04be8.js.map",
+    "static/js/2.cf7016a4.chunk.js": "/move-stars/static/js/2.cf7016a4.chunk.js",
+    "static/js/2.cf7016a4.chunk.js.map": "/move-stars/static/js/2.cf7016a4.chunk.js.map",
+    "index.html": "/move-stars/index.html",
+    "precache-manifest.4c5e32807914e2c478bf1e88ad0167cb.js": "/move-stars/precache-manifest.4c5e32807914e2c478bf1e88ad0167cb.js",
+    "service-worker.js": "/move-stars/service-worker.js",
+    "static/css/main.ce182706.chunk.css.map": "/move-stars/static/css/main.ce182706.chunk.css.map",
+    "static/js/2.cf7016a4.chunk.js.LICENSE.txt": "/move-stars/static/js/2.cf7016a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ba04be8.js",
+    "static/js/2.cf7016a4.chunk.js",
+    "static/css/main.ce182706.chunk.css",
+    "static/js/main.f52c7169.chunk.js"
+  ]
+}
