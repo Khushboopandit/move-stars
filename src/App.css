@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.App {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,6 +22,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.moon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background: white;
+  border-radius: 50%;
 }
 
 .App-link {
