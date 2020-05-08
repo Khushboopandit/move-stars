@@ -36,7 +36,16 @@
 .App-link {
   color: #61dafb;
 }
-
+.outer-div {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+.heading {
+  color: #ffff;
+  position: absolute;
+  top: 0;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
